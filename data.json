@@ -1,0 +1,22 @@
+{
+    "diseases": [
+        {
+            "disease": "Cold",
+            "herb": "mahagoni",
+            "doctorName": "shiva",
+            "description":"This is a description written ti show how the desese will affect the body of a persion"
+        },
+        {
+            "disease": "Fiver",
+            "herb": "mahagoni",
+            "doctorName": "shiva1",
+            "description":"This is a description written ti show how the desese will affect the body of a persion"
+        },
+        {
+            "disease": "mental",
+            "herb": "mahagoni",
+            "doctorName": "shiva2",
+            "description":"This is a description written ti show how the desese will affect the body of a persion"
+        }
+    ]
+}
