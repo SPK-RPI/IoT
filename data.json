@@ -3,19 +3,25 @@
         {
             "disease": "Cold",
             "herb": "mahagoni",
-            "doctorName": "shiva",
+            "doctorName": "Dr.shiva",
             "description":"This is a description written ti show how the desese will affect the body of a persion"
         },
         {
             "disease": "Fiver",
             "herb": "mahagoni",
-            "doctorName": "shiva1",
+            "doctorName": "Dr.shiva1",
             "description":"This is a description written ti show how the desese will affect the body of a persion"
         },
         {
             "disease": "mental",
             "herb": "mahagoni",
-            "doctorName": "shiva2",
+            "doctorName": "Dr.shiva2",
+            "description":"This is a description written ti show how the desese will affect the body of a persion"
+        },
+         {
+            "disease": "loose Motion",
+            "herb": "pomgranate",
+            "doctorName": "Dr.Shiva",
             "description":"This is a description written ti show how the desese will affect the body of a persion"
         }
     ]
