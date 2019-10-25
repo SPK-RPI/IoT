@@ -23,6 +23,18 @@
             "herb": "pomgranate",
             "doctorName": "Dr.Shiva",
             "description":"This is a description written ti show how the desese will affect the body of a persion"
+        },
+        {
+            "disease": "Body Pain",
+            "herb": "grapes",
+            "doctorName": "Dr.sweety",
+            "description":"This is a description written ti show how the desese will affect the body of a persion"
+        },
+        {
+            "disease": "Red Dots in skeen",
+            "herb": "alvera",
+            "doctorName": "Dr.sweety",
+            "description":"This is a description written ti show how the desese will affect the body of a persion"
         }
     ]
 }
