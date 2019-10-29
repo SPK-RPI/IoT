@@ -1,40 +1,29 @@
 {
-    "diseases": [
-        {
-            "disease": "Cold",
-            "herb": "mahagoni",
-            "doctorName": "Dr.shiva",
-            "description":"This is a description written ti show how the desese will affect the body of a persion"
-        },
-        {
-            "disease": "Fiver",
-            "herb": "mahagoni",
-            "doctorName": "Dr.shiva1",
-            "description":"This is a description written ti show how the desese will affect the body of a persion"
-        },
-        {
-            "disease": "mental",
-            "herb": "mahagoni",
-            "doctorName": "Dr.shiva2",
-            "description":"This is a description written ti show how the desese will affect the body of a persion"
-        },
-         {
-            "disease": "loose Motion",
-            "herb": "pomgranate",
-            "doctorName": "Dr.Shiva",
-            "description":"This is a description written ti show how the desese will affect the body of a persion"
-        },
-        {
-            "disease": "Body Pain",
-            "herb": "grapes",
-            "doctorName": "Dr.sweety",
-            "description":"This is a description written ti show how the desese will affect the body of a persion"
-        },
-        {
-            "disease": "Red Dots in skeen",
-            "herb": "alvera",
-            "doctorName": "Dr.sweety",
-            "description":"This is a description written ti show how the desese will affect the body of a persion"
-        }
-    ]
+  "diseases": [
+    {
+      "name": "Stress",
+      "herbs": [
+        "lavendar",
+        "passion flower",
+        "lemon balm",
+        "kava root",
+        "valerian root"
+      ],
+      "herbDescription": "Lavendar is an herb.The flower and the oil of lavendar are used to make medicine.It is used for restlessness and variety of digestive complaints and upset stomach.Some peopole are used for in",
+      "fruitsName": [
+        "oranges",
+        "lemon",
+        "balm",
+        "grape fruit",
+        "banana",
+        "carrot",
+        "nuts"
+      ],
+      "phyExe": "30 minutes of exercise a day can have huge effect on your mental health.Next time you feel stressed , hop on a cardio machine for 30 minutes ,when your workout is complete you will feel calm and at ease.",
+      "doctor": {
+        "name": "Dr.Batra's",
+        "mobileNo": 9152308733
+      }
+    }
+  ]
 }
