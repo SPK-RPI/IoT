@@ -23,7 +23,8 @@
             "doctor": {
                 "name": "Dr.Batra's",
                 "mobileNo": 9152308733
-            }
+            },
+            "price": 321
         },
         {
             "name": "Headache",
@@ -48,7 +49,8 @@
             "doctor": {
                 "name": "Dr. Manojkumars Sanjeevani",
                 "mobileNo": 9152376103
-            }
+            },
+            "price": 665
         },
         {
             "name": "Diabetes",
@@ -76,7 +78,8 @@
             "doctor": {
                 "name": " Dr.Bhoyar's Diabetic foot clinic",
                 "mobileNo": 9920982396
-            }
+            },
+            "price": 1000
         },
         {
             "name": "Blood Pressure ",
@@ -98,7 +101,8 @@
             "doctor": {
                 "name": "Dr. Sapna Shah",
                 "mobileNo": 9152356397
-            }
+            },
+            "price": 543
         },
         {
             "name": "Tuberculosis",
@@ -124,7 +128,8 @@
             "doctor": {
                 "name": "Dr. Vaidehi Mankar",
                 "mobileNo": 9152837608
-            }
+            },
+            "price": 400
         },
         {
             "name": " Tonsilitis",
@@ -144,7 +149,8 @@
             "doctor": {
                 "name": "Dr. Rais Healthcare",
                 "mobileNo": 9152283980
-            }
+            },
+            "price": 600
         },
         {
             "name": "Fever",
@@ -166,7 +172,8 @@
             "doctor": {
                 "name": "Dr. Shalini Gupta",
                 "mobileNo": 9152180056
-            }
+            },
+            "price": 743
         },
         {
             "name": "Sunburn",
@@ -189,7 +196,8 @@
             "doctor": {
                 "name": "Dr. Manisha Raut",
                 "mobileNo": 9152246735
-            }
+            },
+            "price": 989
         },
         {
             "name": "Stroke",
@@ -212,7 +220,8 @@
             "doctor": {
                 "name": " Soja Jaiby",
                 "mobileNo": 9152305231
-            }
+            },
+            "price": 899
         },
         {
             "name": " Obesity",
@@ -236,7 +245,8 @@
             "doctor": {
                 "name": " Dr. Gaurang Gaikwad",
                 "mobileNo": 9152239805
-            }
+            },
+            "price": 899
         },
         {
             "name": "Mouth Ulcer",
@@ -255,7 +265,8 @@
             "doctor": {
                 "name": " Dr. Neeta Patil",
                 "mobileNo": 9152449251
-            }
+            },
+            "price": 343
         },
         {
             "name": " Malaria",
@@ -278,7 +289,8 @@
             "doctor": {
                 "name": "Dr. Ramesh Talreja",
                 "mobileNo": 9819406123
-            }
+            },
+            "price": 788
         },
         {
             "name": "Liver Disease",
@@ -302,7 +314,8 @@
             "doctor": {
                 "name": "Dr. Seema Purohit",
                 "mobileNo": 9152252128
-            }
+            },
+            "price": 983
         },
         {
             "name": "Cough",
@@ -323,7 +336,8 @@
             "doctor": {
                 "name": "Dr. Rammanohar Yadav",
                 "mobileNo": 8422061646
-            }
+            },
+            "price": 200
         },
         {
             "name": "Itchy Skin",
@@ -347,7 +361,8 @@
             "doctor": {
                 "name": "Dr. Tazeen Khateeb",
                 "mobileNo": 9152622567
-            }
+            },
+            "price": 322
         },
         {
             "name": "Diarrhea",
@@ -368,7 +383,8 @@
             "doctor": {
                 "name": "Dr. Hitali Shah",
                 "mobileNo": 9152243242
-            }
+            },
+            "price": 897
         },
         {
             "name": "Asthma",
@@ -391,7 +407,8 @@
             "doctor": {
                 "name": "Dr. Anil Suryavanshi",
                 "mobileNo": 9152302309
-            }
+            },
+            "price": 964
         }
     ]
 }
