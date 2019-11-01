@@ -21,34 +21,416 @@
       ],
       "phyExe": "30 minutes of exercise a day can have huge effect on your mental health.Next time you feel stressed , hop on a cardio machine for 30 minutes ,when your workout is complete you will feel calm and at ease.",
       "doctor": {
-        "name": "Dr.Batra's",
+         "name": "Dr.Batra's",
         "mobileNo": 9152308733
       }
-    },
-    {
-      "name": "Headache",
-      "herbs": [
-        "lavendar",
+  
+},
+{
+      "name": "Headache", 
+      "herbs": [ 
         "passion flower",
-        "lemon balm",
-        "kava root",
-        "valerian root"
+      "spinach",
+      "sesame seeds",
+      "coffee",
+      "salt"
       ],
-      "herbDescription": "Lavendar is an herb.The flower and the oil of lavendar are used to make medicine.It is used for restlessness and variety of digestive complaints and upset stomach.Some peopole are used for in",
+      "herbDescription":  "Spinach is known as paalak in india.Spinach is a green leafy vegetable packed with healthy nutrients.It is a natural Detoxifier.It contains a good ammount of Chlorophull which cleanses toxins from the liver and colon.It is an exellent source of Iron which is important component of hemoglobin.It is a good herbal remedy for sharpening the brain.Spinach contain vitamin k vitamin k helps blood clotting during bleeding.",
       "fruitsName": [
-        "oranges",
-        "lemon",
-        "balm",
-        "grape fruit",
-        "banana",
-        "carrot",
-        "nuts"
+        "coconut",
+      "mineral water",
+      "water melon",
+      "almonds",
+      "carrot",
+      "sweet potato",
+      "blueberries"
       ],
-      "phyExe": "30 minutes of exercise a day can have huge effect on your mental health.Next time you feel stressed , hop on a cardio machine for 30 minutes ,when your workout is complete you will feel calm and at ease.",
-      "doctor": {
-        "name": "Dr.Batra's",
-        "mobileNo": 9152308733
-      }
-    }
-  ]
+       "phyExe": " yoga practice included breathing techniques. Simple stretching can also be helpful for head- aches. Try doing some gentle neck rolls, stretching the jaw and streatching each towards shoulder.",
+       "doctor": {
+         "name": "Dr. Manojkumars Sanjeevani",
+          "mobileNo": 9152376103
+       }
+  
+},
+{
+
+      "name": "Diabetes", 
+      "herbs": [
+      "Jamun seeds",
+      "Karela",
+      "aloe vera",
+      "cinnamon",
+      "bitter melon",
+      "fenugreek",
+      "ginger"
+      ],
+      "herbDescription": "Ginger is a herb that people used for thousands of years in medicine. Ginger help treat digestive and inflammatory issues.it is lowered the blood sugar levels.",
+       "aloe vera is a common plant with many different uses.it have benefits like slowing  the progress of type 2 diabetes.Aloe vera might help protect and repair the beta cells in the pancreas that produce insulin. People should not eat aloe vera skin care products.Aloe vera juice may offer a no.of health benefits.",
+       "fruitsName": [   
+         "apple",
+         "bananas",
+         "grape",
+         "oranges",
+         "peaches",
+         "pears",
+         "plums",
+         "kiwi fruit"
+         ],
+         "phyExe": " At least two and a half hours of moderate to vigorous intensity physical activity per week(brisk,walking,water aerobics,swimming,jogging).If you have type 2 diabetes ,you should aim for 30 minutes exercise at least five days a week.",
+         "doctor": {
+         "name": " Dr.Bhoyar's Diabetic foot clinic",
+         "mobileNo": 9920982396
+         }
+  
+},
+{
+ 
+      "name": "Blood Pressure ", 
+      "herbs": [ 
+        "basil",
+      "cinnamon",
+      "cardamom",
+      "flax seed"
+      ],
+      "herbDescription": "Basil is a delicious herb that goes well in a variety of foods.It also might help lower your blood pressure.The chemical eugenol, which is found in basil,may block  certain substances that tighten blood vessels.Adding fresh basils to your diet is easy and certainly can't hurt.", "Cinnamon is another tasty seasoning that requires little effort to include in your daily  diet,and it may bring your blood pressure  number down.You can include more  Cinnamon in your diet by sprinkling it on  your breakfast cereal,oatmeal,and even in your coffee.",
+      "fruitsName": [
+        "Berries",
+        "Red beets",
+        "bananas",
+        "pistachios",
+        "pomegranates"
+        ],
+      "phyExe": "Exercise can help lower your blood pressure and make your heart stronger.Eg. Includes walking ,jogging,jumping rope,outdoor,cross-country skiing,skating etc.It helps to improve blood circulation.",
+       "doctor": {
+         "name": "Dr. Sapna Shah",
+         "mobileNo": 9152356397
+       }
+  
+},
+{
+ 
+      "name": "Tuberculosis", 
+      "herbs": [ 
+        "garlic",
+        "barberry",
+        "horsetail",
+        "licorice",
+        "green tea",
+        "ginseng"
+        ],
+      "herbDescription": " The herb contains compounds that strengthen the lungs and reduce coughing caused by TB.Ginsang has adaptogenic proparties,which improves the body's resistance against infections,stress and fatigue.", 
+      "Licorice root is an expectorant and alleviates coughing in tuberculosis.Its anti-inflamatory proparties help loosen and release mucus,and widen the air passage to help you breathe freely.Licorice also contains 10 antioxidants at least 25 fungicides and nine expectorant compounds.",
+       "fruitsName": [
+         "oranges",
+         "mango",
+         "carrots",
+         "pumpkin",
+         "amla",
+         "tomato",
+         "nuts"
+         ],
+        "phyExe": " Exercise can help your body fight the TB infections ,speed your recovery and improve your mood.If you have inactive TB,you can continue your normal exercise activities.Moderate walking is good way to start.You can exercise in short sessions,such as walking for 20 minutes or compliting two 10 minute walks.You should walk as often as you are able.",
+         "doctor": {
+         "name": "Dr. Vaidehi Mankar",
+         "mobileNo": 9152837608
+
+        }
+   
+},
+{
+  
+      "name": " Tonsilitis", 
+      "herbs": [ 
+        "cinnamon",
+      "turmeric",
+      "fenugreek",
+      "tulsi"
+      ],
+      "herbDescription": "Tulsi,is another expectionally viable home remedy for tonsilitis because of its antiviral and anti-inflamatory proparties.In addition to that its healing and soothing qualities will help reduce swelling and pain as well as as speed up the healing process.Consuming a drink made by boling tulsi leaves and adding about 2 grams of black pepper to it can help in bringing relief.This drink helps in building your immunity.",
+        "Turmeric due to its strong anti-inflammatory and antiseptic qualities,can also fight off tonsilitis infection and relieve irritation systems.Drink it at night for two to three days to speed up the healing process.",
+       "fruitsName": [
+         "Pomegrante",
+       "bananas",
+       "pineapple"
+       ],
+       "phyExe": " Yoga has been found and proven to be helpful in the preventation of cure and disesse.Several yogic aasan has been recommended for tonsilitis.Rabbit pose,Corpse pose,Triangle pose,Lion pose,Matsyasana.",
+       "doctor": {
+         "name": "Dr. Rais Healthcare",
+         "mobileNo": 9152283980
+       }
+  
+},
+{
+  
+      "name": "Fever", 
+      "herbs": [
+        "sudarshan leaves",
+      "ginger",
+      "giloy",
+      "tulsi",
+      "neem",
+      "cloves",
+      "black pepper"
+      ],
+       "herbDescription": " The perennial help native to China and india known as Zingbier officinale can prove to be an aid to a plenty of your health woes like cold flu,inflammation,sore throat and fever.Its natural antiviral and atibacterial elements help fight the infection in your body.",
+        "fruitsName": [
+          "grapes",
+          "apple"
+          ],
+         "phyExe": "walk around the house for a few minutes every half hour or so to potentially recover from your illness faster. No exercise at all when fever.",
+          "doctor": {
+         "name": "Dr. Shalini Gupta",
+         "mobileNo": 9152180056
+          }
+   
+},
+{
+  
+      "name": "Sunburn", 
+      "herbs": [ 
+        "basil",
+        "calendula",
+        "oregano",
+        "rosemary",
+        "valerian"
+        ],
+         "herbDescription": "Valerian root is good for sunburn.You can use valerian to either make a tea from the dried roots.",
+         " One of the most widely-used medicinal herbs  throughout history,calendula is a charmer.Not only does the plant support cheery,yellow-and-orange blossoms,but its great addition to natural skin treatments.",
+         "fruitsName": [
+           "carrot",
+           "watermelon",
+           "cucumber",
+           "almonds",
+           "pomegranate"
+           ],
+           "phyExe": "Don't exercise if you have sunburned.Your body needs all time it can to recover.",
+            "doctor": {
+         "name": "Dr. Manisha Raut",
+         "mobileNo": 9152246735
+            }
+   
+},
+{
+  
+      "name": "Stroke", 
+      "herbs": [ 
+        "garlic",
+        "ashwagandha",
+        "centella asiatica",
+        "european blueberry",
+        "turmeric"
+        ],
+        "herbDescription": " Ashwagandha is one of the most important herbs in Ayurveda, a form of alternative medicine.Many of the health benefit  included to its high concentration.It is good for death of cancer cells.Particularly its root  powder ,has been used for traditional indian medicine.",
+        "Blueberries has been used for nearly 1000 years in traditional European medicines. it is used to treatment for most of the disease like gastro intestincal tract and  diabetes. It have high concentration of anthocyanins, which may have various health benefits.In cooking we can add blueberry fruits as well as leaves.",
+        "fruitsName": [  
+          "blueberries",
+          "nuts",
+          "beans",
+          "avacados",
+          "seeds"
+          ],
+           "phyExe": " The following stroke rehabilitation exercise are Knee extensions,Seated marching, Knee to Chest,Toe Taps,Tablet Circle Movement,Open Arm Movement.These exercise are good for stroke patients.",
+            "doctor": {
+         "name": " Soja Jaiby",
+          "mobileNo": 9152305231
+            }
+  
+},
+{
+  
+      "name": " Obesity", 
+      "herbs": [
+        "cumin",
+        "ginger",
+        "rosemerry",
+        "black pepper",
+        "dandelion"
+        ],
+         "herbDescription": "Black pepper is rich in piperine,which gives to its unique flavour.This one ingredient prevents the foramation of fat cells and thus help you to lose ,and later maintain,that weight.",
+          "fruitsName": [ 
+            "grape fruit"
+            "apples",
+            "berries",  
+            "passion fruit",
+            "kiwifruit",
+            "melons"
+            ],
+            "phyExe": " The physical activities like climbing stairs and jogging,one of the easiest and most effective ways to ease into a healthier life-style to begin walking.You may need to least 60 minutes Exercise a day to prevent weight gain and 90 minutes a day to weight lose.Do warm up exercise and gentle stretches before exercising.",
+            "doctor": {
+         "name": " Dr. Gaurang Gaikwad",
+          "mobileNo": 9152239805
+            }
+   
+},
+{
+ 
+      "name": "Mouth Ulcer", 
+      "herbs": [
+        "honey",
+        "mulethi powder",
+        "triphala",
+        "aloe vera",
+        "tulsi"
+        ],
+         "herbDescription": "Mulethi has long been used medicinal proparties.For mouth ulcers cause due to stomach ailments,mulethi works wonders.It helps in cleaning your stomach and removes toxins that could be responsible for the ulcers.",
+         "Swish some aloe vera juice a couple of times in the day to get relief.This simple home remedy is the easiest way to treat mouth ulcers.Aloe vera also has natural anti-inflammatory proparties and drinking aloe vera juice is known to cure even stomach ulcers.If offers relief by healing the stomach lining and reducing acidic secretions.",
+          "fruitsName": [ 
+            "coconut"
+            ],
+             "phyExe": " When you have ulcers you can do your regular exercise.Try to avoid stress because it can aggravate your condition.",
+              "doctor": {
+         "name": " Dr. Neeta Patil",
+          "mobileNo": 9152449251
+            }
+  
+},
+{
+ 
+      "name": " Malaria", 
+      "herbs": [
+        "cinnamon",
+        "turmeric",
+        "ginger",
+        "mustard oil",
+        "fenugreek seeds"
+        ],
+       "herbDescription": "Anti inflammatory,antioxidants and antimicrobial proparties in cinnamon help in dealing with symptoms of malaria.Add cinnamon and black pepper powder in hot water.Drink twice a day.",
+       "Intermittent fever in people infected with malaria makes them very weak.Fenugreek seeds are considered to be the perfect home remedy reducing this weakness.They offer a quick recovery from malaria by boosting immunity and fighting malaria parasites.",
+        "fruitsName": [ 
+          "tamrind",
+          "grapefruit",
+          "sweet lime",
+          "apple",
+          "oranges"
+          ],
+         "phyExe": "Exercising regularly and leading a healthy life style can reduce the damage to the heart and skeletal muscles brought on by  malaria.Keep your diet healthy.",
+            "doctor": {
+         "name": "Dr. Ramesh Talreja",
+          "mobileNo": 9819406123
+            }
+   
+},
+{
+  
+      "name": "Liver Disease", 
+      "herbs": [
+        "chicory",
+        "boldo",
+        "artichoke",
+        "milk thistle",
+        "dandelion",
+        "fumitory"
+        ],
+        "herbDescription": "This liver cleansing plant has popularized vegetables such as escarole or endive.Its leaves are used for both culinary and medicinal purposes.Furthermore,its dried root can be a healthy coffee substitute.As a vegetable,it is  very to preapre it.",
+         "fruitsName": [
+           "beetroot",
+           "avacado",
+           "grapefruit",
+           "berries,
+           "grapes"
+           ],
+           "phyExe":"The liver plays a key role in digestion and overall health.Stimulate this vital organ with yoga poses like Big toe pose,standing Forward bend,and Standing Split.Walking is also best exercise for liver disease.", 
+             "doctor": {
+         "name": "Dr. Seema Purohit",
+          "mobileNo":  9152252128
+             }
+   
+}
+{
+  
+      "name": "Cough", 
+      "herbs": [
+        "honey",
+        "marshmallow roots",
+        "ginger"
+        ],
+        "herbDescription": "Marshmallow root is an herb that has long history of use as a treatment for coughs and sore throats.The herb can ease irritation resulting from coughing because of its high  mucilage content.Mucilage is a thick,gluecy substance that coats the throat.Marshmallow root is also available as a dried herb or a bagged tea.","According to some research,honey may relieve coughs.It is provided dextromethorphan.To use  honey to treat a cough,mix in warm water or an herbal tea.Do not give honey to children under 1 year of age.",
+         "fruitsName": [ 
+           "bromelian",
+           "orange",
+           "apples",
+           "carnberries',
+           "sweet potatoes"
+           ],
+          "phyExe": "The physical exercise in cough Sit straight on a hard-backed,stable chair and relax.Take in 2-3 deep breaths through your nose  and exhale slowly through pursed lips.Fold your arms across your abdomen.Take in a comfortable ,deep breath through your nose.",
+            "doctor": {
+         "name": "Dr. Rammanohar Yadav",
+          "mobileNo":  8422061646
+             }
+   
+}
+{
+  
+      "name": "Itchy Skin", 
+      "herbs": [
+        "chickweed",
+        "peppermint",
+        "common nettle",
+        "clove",
+        "chamomile"
+        ],
+         "herbDescription": "Chamomile is natural anti-inflammatory,with the power to reduce redness,itchiness and swelling . Steep a chamomile tea bag in boiling water for two to three minutes to release the anti-inflammatory enzymes.Put it in fridge and once the tea bag is cold ,apply it directly to red irritated patches on your face for instant relief.",
+           "fruitsName": [ 
+             "citrus fruits",
+             "kiwifruit",
+             "grapes",
+             "strawberry",
+             "apple",
+             "papaya"
+             ],
+              "phyExe": "Try to avoid sweat, and you can do your regular activities.",
+               "doctor": {
+         "name": "Dr. Tazeen Khateeb",
+          "mobileNo": 9152622567
+               }
+   
+},
+{
+  
+      "name": "Diarrhea",
+      "herbs": [
+        "astagalus",
+        "barberry",
+        "ginger",
+        "coriander",
+        "oregano"
+        ],
+          "herbDescription": "Astagulas is a very useful plant for diarrhea Because of the astragulas anti-viral and antibacterial proparties,it is considered as a  good natural remedy for diarrhea.It containss polysaccharides which provides support for the immune system.",
+            "fruitsName": [ 
+              "apple",
+              "banana",
+              "coconut"
+              ],
+              "phyExe": "Allow yourself a few hours before exercising to ensure that the diarrhea has been treated. Ask your doctor how long you have to wait to exercise followi ng treartment.",
+              "doctor": {
+         "name": "Dr. Hitali Shah",
+          "mobileNo": 9152243242
+               }
+   
+},
+{
+ 
+      "name": "Asthma",
+      "herbs": [
+        "garlic",
+        "ginger",
+        "echinacea",
+        "honey",
+        "turmeric",
+        "parsley"
+        ],
+         "herbDescription": "Parsley helps relieve coughing during asthma  attacks and act as an expectorant,a medicine that promotes secretion of sputum by the air passages-enabling the patient to cough,riding  airways of trapped mucous.It also eases tightness in the muscles of the chest.When used as a tea parsley is also a natural diuretic which increases frequency of urination.",
+            "fruitsName": [ 
+              "apples",
+              "banana",
+              "cantaloupe",
+              "avocado"
+              ], 
+              "phyExe": " Swimming is the bbest exercise for asthma because it builds up the muscles you use for breathing.It also exposes the lungs.Yoga is another good exercise for asthma In a study ,found that yoga training over 10 weeks significantly improved quality of life scores.Other potential physical activities for people with asthma include walking, biking,hiking,golf and gymnastics.Before start any activites take advise to your doctor.",
+              "doctor": {
+         "name": "Dr. Anil Suryavanshi",
+          "mobileNo":  9152302309
+               }
+}
+]
 }
