@@ -410,22 +410,18 @@
             },
             "price": 964
         },
-        
-        
-        
         {
-         "name": "Migraine",
+            "name": "Migraine",
             "herbs": [
                 "Peppermint",
                 "Lavender",
-                "Rosemary",
-               
+                "Rosemary"
             ],
             "herbDescription": "Peppermint leaves and oils are used for medicinal and culinary process.In addition to a headache treatment it is also use to relieve.Peppermint oil and its active ingredient menthol,is available in liquid capsuleform.Topical peppermint oil may be a good herbal option for the relief of migraine pain.",
             "fruitsName": [
                 "oranges",
                 "banana",
-                "apple",
+                "apple"
             ],
             "phyExe": "Biking,swimming,and walking are the great ways to fit in aerobic exercise and help reduce the frequency and severity of migraines and headaches.Meditation and yoga are also very useful.",
             "doctor": {
@@ -434,19 +430,12 @@
             },
             "price": 1000
         },
-        
-        
-        
-        
-        
-        
         {
-         "name": "Measles",
+            "name": "Measles",
             "herbs": [
                 "Turmeric",
                 "Barley",
-                "Neem leaves",
-               
+                "Neem leaves"
             ],
             "herbDescription": "It has amazing antiseptic and antioxidant proparties which make it very effective against measles.Drinking couple of glasses of milk with a spoonful of turmeric added to it can be a great natural cure for measles.It can quickly reduce the symptoms.",
             "fruitsName": [
@@ -462,21 +451,19 @@
             },
             "price": 500
         },
-        
-       {
-         "name": "Low Back Pain",
+        {
+            "name": "Low Back Pain",
             "herbs": [
                 "Lavender",
                 "Cloves",
-                "Ginger",
-               
+                "Ginger"
             ],
             "herbDescription": "Lavender essential oil may help relive pain naturally.People use lavender oil for pain relief,to help sleep,and to ease anxiety.Do not ingest essential oils,as they can be  toxic.If applying an oil topically,always dilute it in a carrier oil.",
             "fruitsName": [
                 "Carrots",
                 "cherries",
                 "berries",
-               "grapes",
+                "grapes",
                 "watermelon",
                 "pomegranate"
             ],
