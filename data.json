@@ -409,6 +409,83 @@
                 "mobileNo": 9152302309
             },
             "price": 964
+        },
+        
+        
+        
+        {
+         "name": "Migraine",
+            "herbs": [
+                "Peppermint",
+                "Lavender",
+                "Rosemary",
+               
+            ],
+            "herbDescription": "Peppermint leaves and oils are used for medicinal and culinary process.In addition to a headache treatment it is also use to relieve.Peppermint oil and its active ingredient menthol,is available in liquid capsuleform.Topical peppermint oil may be a good herbal option for the relief of migraine pain.",
+            "fruitsName": [
+                "oranges",
+                "banana",
+                "apple",
+            ],
+            "phyExe": "Biking,swimming,and walking are the great ways to fit in aerobic exercise and help reduce the frequency and severity of migraines and headaches.Meditation and yoga are also very useful.",
+            "doctor": {
+                "name": "Dr. Anil Venkitachalam",
+                "mobileNo": 02248977828
+            },
+            "price": 1000
+        },
+        
+        
+        
+        
+        
+        
+        {
+         "name": "Measles",
+            "herbs": [
+                "Turmeric",
+                "Barley",
+                "Neem leaves",
+               
+            ],
+            "herbDescription": "It has amazing antiseptic and antioxidant proparties which make it very effective against measles.Drinking couple of glasses of milk with a spoonful of turmeric added to it can be a great natural cure for measles.It can quickly reduce the symptoms.",
+            "fruitsName": [
+                "oranges",
+                "grapes",
+                "coconut",
+                "pomegranate"
+            ],
+            "phyExe": "Meditation is good for measles.Take advice of doctors when you start any type of physical exercise.",
+            "doctor": {
+                "name": "Dr.Sandesh Narke",
+                "mobileNo": 9763299876
+            },
+            "price": 500
+        },
+        
+       {
+         "name": "Low Back Pain",
+            "herbs": [
+                "Lavender",
+                "Cloves",
+                "Ginger",
+               
+            ],
+            "herbDescription": "Lavender essential oil may help relive pain naturally.People use lavender oil for pain relief,to help sleep,and to ease anxiety.Do not ingest essential oils,as they can be  toxic.If applying an oil topically,always dilute it in a carrier oil.",
+            "fruitsName": [
+                "Carrots",
+                "cherries",
+                "berries",
+               "grapes",
+                "watermelon",
+                "pomegranate"
+            ],
+            "phyExe": "Some physical exercises are not good for back pain.Some use ful exercises are Aerobic exercise,Some Pilates moves,Lifting Weights May help,Bridging,Pelvic Tilts,Knee to Chest,Bird Dog,Press up back extensions.",
+            "doctor": {
+                "name": "Dr.Dandekars Deerghayu",
+                "mobileNo": 7507856795
+            },
+            "price": 300
         }
     ]
 }
