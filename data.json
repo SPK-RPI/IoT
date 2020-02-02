@@ -5,51 +5,51 @@
             "herbs": [
                 {
                     "name": "lavendar",
-                    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcShdf-POiqlDlize2tVeYBu0fDsKCXMJqRtIDGs1aZy02D8XydW "
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcShdf-POiqlDlize2tVeYBu0fDsKCXMJqRtIDGs1aZy02D8XydW "
                 },
                 {
                     "name": "passion flower",
-                    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTAY10XJ4ylWL7ETbxKgy1ZGxnDUDdc9pDRHVbcpvvt2AJqvXzn"
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTAY10XJ4ylWL7ETbxKgy1ZGxnDUDdc9pDRHVbcpvvt2AJqvXzn"
                 },
                 {
                     "name": "lemon balm",
-                    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxP1RDodxnnCXfcC2kM-8UZBGvGlVBlB_DrGGqZX59vsfhm9E5"
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxP1RDodxnnCXfcC2kM-8UZBGvGlVBlB_DrGGqZX59vsfhm9E5"
                 },
                 {
                     "name": "kava root",
-                    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR8B8Dwb9uFcaJy6a84DslioWyKvkOlBomEljcfoULkoH0xMQbg"
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR8B8Dwb9uFcaJy6a84DslioWyKvkOlBomEljcfoULkoH0xMQbg"
                 },
                 {
                     "name": "valerian root",
-                    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQmcC7GHUJmZXT0yyiDeXU4U2HjNGoG75k3BuFXx_R1phX5x_rZ"
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQmcC7GHUJmZXT0yyiDeXU4U2HjNGoG75k3BuFXx_R1phX5x_rZ"
                 }
             ],
             "herbDescription": "Lavendar is an herb.The flower and the oil of lavendar are used to make medicine.It is used for restlessness and variety of digestive complaints and upset stomach.Some peopole are used for in",
             "fruitsName": [
                 {
                     "name": "oranges",
-                    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTbXYXnfzbj2tl5pwmzRWhRk-TDe_9snpC1QNkLPAt_MRMnfJrm"
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTbXYXnfzbj2tl5pwmzRWhRk-TDe_9snpC1QNkLPAt_MRMnfJrm"
                 },
                 {},
                 {
                     "name": "balm",
-                    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQippH8E52LSzDgC4xxCZm6cp8Ndnjmv65ZFZlfos3O-JPDB_v1+6"
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQippH8E52LSzDgC4xxCZm6cp8Ndnjmv65ZFZlfos3O-JPDB_v1+6"
                 },
                 {
                     "name": "grape fruit",
-                    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSBVR83o9HnGmNiYKfXaWI1LI9qMHcie95O33U7qimNCMseoIkz"
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSBVR83o9HnGmNiYKfXaWI1LI9qMHcie95O33U7qimNCMseoIkz"
                 },
                 {
                     "name": "banana",
-                    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQmyV3EPep2eVcsvlXeX0c9t1THRaZU76-qzBu_rQN_PMPOkfwk"
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQmyV3EPep2eVcsvlXeX0c9t1THRaZU76-qzBu_rQN_PMPOkfwk"
                 },
                 {
                     "name": "carrot",
-                    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTy6jLHBZhdoptB1DZ2dI01Ie3Ca9tMMnYXLnLEA-ZyeAeedIPh"
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTy6jLHBZhdoptB1DZ2dI01Ie3Ca9tMMnYXLnLEA-ZyeAeedIPh"
                 },
                 {
                     "name": "nuts",
-                    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSrjKl8a0p-r29oUGIXeadQukT-_aZKIcJwXZg3deCk-Aw06M2S"
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSrjKl8a0p-r29oUGIXeadQukT-_aZKIcJwXZg3deCk-Aw06M2S"
                 }
             ],
             "phyExe": "30 minutes of exercise a day can have huge effect on your mental health.Next time you feel stressed , hop on a cardio machine for 30 minutes ,when your workout is complete you will feel calm and at ease.",
