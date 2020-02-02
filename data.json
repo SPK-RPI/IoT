@@ -3,25 +3,58 @@
         {
             "name": "Stress",
             "herbs": [
-                "lavendar",
-                "passion flower",
-                "lemon balm",
-                "kava root",
-                "valerian root"
+                {
+                    "name": "lavendar",
+                    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcShdf-POiqlDlize2tVeYBu0fDsKCXMJqRtIDGs1aZy02D8XydW "
+                },
+                {
+                    "name": "passion flower",
+                    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTAY10XJ4ylWL7ETbxKgy1ZGxnDUDdc9pDRHVbcpvvt2AJqvXzn"
+                },
+                {
+                    "name": "lemon balm",
+                    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxP1RDodxnnCXfcC2kM-8UZBGvGlVBlB_DrGGqZX59vsfhm9E5"
+                },
+                {
+                    "name": "kava root",
+                    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR8B8Dwb9uFcaJy6a84DslioWyKvkOlBomEljcfoULkoH0xMQbg"
+                },
+                {
+                    "name": "valerian root",
+                    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQmcC7GHUJmZXT0yyiDeXU4U2HjNGoG75k3BuFXx_R1phX5x_rZ"
+                }
             ],
-            "herbDescription": "Lavendar is an herb.The flower and the oil of lavendar are used to make medicine.It is used for restlessness and variety of digestive complaints and upset stomach.Some peopole are used for in",
+            "herbDescription": "Lavendar is an herb.The flower and the oil of lavendar are used to make medicine.It is used for restlessness and variety of digestive complaints and upset stomach.Some peopole are used for in",
             "fruitsName": [
-                "oranges",
-                "lemon",
-                "balm",
-                "grape fruit",
-                "banana",
-                "carrot",
-                "nuts"
+                {
+                    "name": "oranges",
+                    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTbXYXnfzbj2tl5pwmzRWhRk-TDe_9snpC1QNkLPAt_MRMnfJrm"
+                },
+                {},
+                {
+                    "name": "balm",
+                    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQippH8E52LSzDgC4xxCZm6cp8Ndnjmv65ZFZlfos3O-JPDB_v1+6"
+                },
+                {
+                    "name": "grape fruit",
+                    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSBVR83o9HnGmNiYKfXaWI1LI9qMHcie95O33U7qimNCMseoIkz"
+                },
+                {
+                    "name": "banana",
+                    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQmyV3EPep2eVcsvlXeX0c9t1THRaZU76-qzBu_rQN_PMPOkfwk"
+                },
+                {
+                    "name": "carrot",
+                    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTy6jLHBZhdoptB1DZ2dI01Ie3Ca9tMMnYXLnLEA-ZyeAeedIPh"
+                },
+                {
+                    "name": "nuts",
+                    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSrjKl8a0p-r29oUGIXeadQukT-_aZKIcJwXZg3deCk-Aw06M2S"
+                }
             ],
-            "phyExe": "30 minutes of exercise a day can have huge effect on your mental health.Next time you feel stressed , hop on a cardio machine for 30 minutes ,when your workout is complete you will feel calm and at ease.",
+            "phyExe": "30 minutes of exercise a day can have huge effect on your mental health.Next time you feel stressed , hop on a cardio machine for 30 minutes ,when your workout is complete you will feel calm and at ease.",
             "doctor": {
-                "name": "Dr.Batra's",
+                "name": "Dr.Batra&#39;s",
                 "mobileNo": 9152308733
             },
             "price": 321
@@ -29,21 +62,57 @@
         {
             "name": "Headache",
             "herbs": [
-                "passion flower",
-                "spinach",
-                "sesame seeds",
-                "coffee",
-                "salt"
+                {
+                    "name": "passion flower",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQE8Vty3284DgwJO1vYbyou0o-Yc2aj9hhlqVijbclHBHXyFwI3"
+                },
+                {
+                    "name": "spinach",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS82Tx7FbsaXFer2jF7bAbQm4RQTLHPhCtxl6FDQvaCjuEEYkA9"
+                },
+                {
+                    "name": "sesame seeds",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDQRCOifBgw0Rv9D08SR48WAJkl0T88zGfoSWc641Suy7G6w-r"
+                },
+                {
+                    "name": "coffee",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tsabn%3AANd9GcQNNMNMBalDOlnhTrFbDp3K_sKwj73oak4tMBdS6lSWynVd5MUT"
+                },
+                {
+                    "name": "salt",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_7g_dk11oxhGgq2Dp7cX57vmACFn7OgKpmjrkv3fEcJoEvjIp"
+                }
             ],
             "herbDescription": "Spinach is known as paalak in india.Spinach is a green leafy vegetable packed with healthy nutrients.It is a natural Detoxifier.It contains a good ammount of Chlorophull which cleanses toxins from the liver and colon.It is an exellent source of Iron which is important component of hemoglobin.It is a good herbal remedy for sharpening the brain.Spinach contain vitamin k vitamin k helps blood clotting during bleeding.",
             "fruitsName": [
-                "coconut",
-                "mineral water",
-                "water melon",
-                "almonds",
-                "carrot",
-                "sweet potato",
-                "blueberries"
+                {
+                    "name": "coconut",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTKWE_RVU7VL4Bh_4ak7TidfngFWVPLZ86aG3jm1HVRYZ-4Ocaq"
+                },
+                {
+                    "name": "mineral water",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuRW3turBqIGXFPQj5H5VfkcLwwH4E7cS4SzcBJYY3-ETY6osc"
+                },
+                {
+                    "name": "water melon",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmVIkJwcZ5qdJLarNNlIcsBYSoLAHWAk41wZc8wp6pbws1zAwv"
+                },
+                {
+                    "name": "almonds",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ3Ay6K1WHmRqR4zfwXsMScBZWWHurRRYiqYa4JX8RFnj7niRqh"
+                },
+                {
+                    "name": "carrot",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQXq0umHVaFX8GlHYdUiZ5AuC5tgpzltKGQFOmQ_qpGj8uv2lZn"
+                },
+                {
+                    "name": "sweet potato",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTbzs_TuWZrPUC2b2PnbDoudeYF794t027pS2_wpvZKDOPqYmVu"
+                },
+                {
+                    "name": "blueberries",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRYMtUxhd3vWGiJdrzYfKGk0hqqyB8CHQnMmLm-d644B6CCnZhy"
+                }
             ],
             "phyExe": " yoga practice included breathing techniques. Simple stretching can also be helpful for head- aches. Try doing some gentle neck rolls, stretching the jaw and streatching each towards shoulder.",
             "doctor": {
@@ -55,24 +124,69 @@
         {
             "name": "Diabetes",
             "herbs": [
-                "Jamun seeds",
-                "Karela",
-                "aloe vera",
-                "cinnamon",
-                "bitter melon",
-                "fenugreek",
-                "ginger"
+                {
+                    "name": "Jamun seeds",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQgDG-otgvLhvXfhyBb8KRpZ8P6wQzPd1NKggmP2Jd1K4z00Hbq"
+                },
+                {
+                    "name": "Karela",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRUTHqL0WskB7ylBYIT_7vASu7_CzwXeQnlt-cfjJsto_rx6n_2"
+                },
+                {
+                    "name": "aloe vera",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRb7118KH5WIvNTX3dDmYC75-QUnXIdz87_lpR_bfTinp57Owgn"
+                },
+                {
+                    "name": "cinnamon",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRSYSY0-90s3S3kZgEgcD3U1XuvMUHKZPoSna_ApN7ivIo6C0hU"
+                },
+                {
+                    "name": "bitter melon",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS17nu1dpx_V63LubR8eBGtXbFCCDouXiAfAMIsIjGwhzGwArHB"
+                },
+                {
+                    "name": "fenugreek",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_p33HP46lWAaf2ijUuO2JxyMU9Jo-3qYfPIhHYZuTdE8uNnY_"
+                },
+                {
+                    "name": "ginger",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSirCOxXNU5-EJRLlPdAajvvf7YXaO2pELyeKO1xjttrVmomwWR"
+                }
             ],
             "herbDescription": "Ginger is a herb that people used for thousands of years in medicine. Ginger help treat digestive and inflammatory issues.it is lowered the blood sugar levels.",
             "fruitsName": [
-                "apple",
-                "bananas",
-                "grape",
-                "oranges",
-                "peaches",
-                "pears",
-                "plums",
-                "kiwi fruit"
+                {
+                    "name": "apple",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRK8z9FNBLslApImTt105kBqVUjqcVp8lwJqF9rnu6xAABnuVGw"
+                },
+                {
+                    "name": "bananas",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtIK6GtGM3joK1_yzfnpHYcbEGNJ99LDEaBXjenhR8sLbtOdn4"
+                },
+                {
+                    "name": "grape",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSjqeyltsH6boCkMC5tY4FTuLl6_njJFTm-i3t7trhgC46DafMf"
+                },
+                {
+                    "name": "oranges",
+                    "imgURL": "https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c173.png"
+                },
+                {
+                    "name": "peaches",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQeUA_DpLANVgZp-rmljwcaFSRi7H2dwbcKKTgEkNU7cIglBzZW"
+                },
+                {
+                    "name": "pears",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQsqR4yHtJEQyc5AGMOoDl2c5k-uuGvYlFN1PLDKwjBArk58J9d"
+                },
+                {
+                    "name": "plums",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSzzabUejr2L5xmAIjYG-TrhecGSClaDLcQteWy0EFmtC-3lBOF"
+                },
+                {
+                    "name": "kiwi fruit",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTIV_jheGU2iCdaJbTkTalLgfPfr_aspFR3TVidj_2wGioVUdlG"
+                }
             ],
             "phyExe": " At least two and a half hours of moderate to vigorous intensity physical activity per week(brisk,walking,water aerobics,swimming,jogging).If you have type 2 diabetes ,you should aim for 30 minutes exercise at least five days a week.",
             "doctor": {
@@ -84,18 +198,45 @@
         {
             "name": "Blood Pressure ",
             "herbs": [
-                "basil",
-                "cinnamon",
-                "cardamom",
-                "flax seed"
+                {
+                    "name": "basil",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQP0jwcu_A-eXIMUvY6HSFyo5KRIO6JfvzVJo8UvuMqIRADUSW"
+                },
+                {
+                    "name": "cinnamon",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRSYSY0-90s3S3kZgEgcD3U1XuvMUHKZPoSna_ApN7ivIo6C0hU"
+                },
+                {
+                    "name": "cardamom",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSgGUnsBm17q-ZqwC3yYprrTkXrn2DNBHo9h9ptiKtnH17ZGNhb"
+                },
+                {
+                    "name": "flax seed",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTfJM6uVCJ_jG1sKhhc005MrFYuTkaHUsCN_Nv_S4jWc5lziYDn"
+                }
             ],
             "herbDescription": "Basil is a delicious herb that goes well in a variety of foods.It also might help lower your blood pressure.The chemical eugenol, which is found in basil,may block  certain substances that tighten blood vessels.Adding fresh basils to your diet is easy and certainly can't hurt.",
             "fruitsName": [
-                "Berries",
-                "Red beets",
-                "bananas",
-                "pistachios",
-                "pomegranates"
+                {
+                    "name": "Berries",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS-tjv_OGZAT4GfDg4G3lR1SdJyHoWbjmBIiZfVzChVKnNH-auQ"
+                },
+                {
+                    "name": "Red beets",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQprw_YitY2BQxK8HJ_EovmnYJsH4QodEl5cpRtPJA3t1t9h0JI"
+                },
+                {
+                    "name": "bananas",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtIK6GtGM3joK1_yzfnpHYcbEGNJ99LDEaBXjenhR8sLbtOdn4"
+                },
+                {
+                    "name": "pistachios",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRbihql87LBEBdmRGKGbqJ8C0hdFLJ5aoLBPlINe2TgD_Mt34XS"
+                },
+                {
+                    "name": "pomegranates",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTFKN_lPkRrspKQedLW9lmUG4GUG0O_xDC8GrE-GnQClJknUEuj"
+                }
             ],
             "phyExe": "Exercise can help lower your blood pressure and make your heart stronger.Eg. Includes walking ,jogging,jumping rope,outdoor,cross-country skiing,skating etc.It helps to improve blood circulation.",
             "doctor": {
@@ -107,22 +248,61 @@
         {
             "name": "Tuberculosis",
             "herbs": [
-                "garlic",
-                "barberry",
-                "horsetail",
-                "licorice",
-                "green tea",
-                "ginseng"
+                {
+                    "name": "garlic",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTn0QynWmOf-DjCsMYaJexFhMzQ3hh_QrpNQCMuj3P3cNc8y1El"
+                },
+                {
+                    "name": "barberry",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQ19uYq9Hm7PSD1YSkcXCUvgea_Dy4hfW3YFosTAp1d8LnMrtE"
+                },
+                {
+                    "name": "horsetail",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQxX40qaPKhIqfu1MibvPC2ixM6f_s9cR0lx7UZxQRVJfMyUJ2K"
+                },
+                {
+                    "name": "licorice",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTWGoZBgw-4Vh91eQuLnFFHKoZUrtD7ME_JFVLsw-K5RzrVQXjH"
+                },
+                {
+                    "name": "green tea",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTit-y7qfKgYrDxUbunlSqHpJ1mJZ4yeasbfm4JqRlZRHzUF0Wq"
+                },
+                {
+                    "name": "ginseng",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR2EeTtqvigxSsU6UmSC9yXvujdwtEK1nFqp2gIUjc4PJxu4933"
+                }
             ],
             "herbDescription": " The herb contains compounds that strengthen the lungs and reduce coughing caused by TB.Ginsang has adaptogenic proparties,which improves the body's resistance against infections,stress and fatigue.",
             "fruitsName": [
-                "oranges",
-                "mango",
-                "carrots",
-                "pumpkin",
-                "amla",
-                "tomato",
-                "nuts"
+                {
+                    "name": "oranges",
+                    "imgURL": "https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c173.png"
+                },
+                {
+                    "name": "mango",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQGmzBDHWR8HtZUa1SyGFSPI3FvUtuvWfkKTbeNaAUOZvQC35BK"
+                },
+                {
+                    "name": "carrots",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQXq0umHVaFX8GlHYdUiZ5AuC5tgpzltKGQFOmQ_qpGj8uv2lZn"
+                },
+                {
+                    "name": "pumpkin",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTiG_YVIu4rGEUdcd5fTomYbFtnMKBjSpApUAEywdKjA7ezg6Xl"
+                },
+                {
+                    "name": "amla",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS38wj7vEuWrpid8jdb6hJjePriWFxo5ACrkytnhaDDUPHPxTC7"
+                },
+                {
+                    "name": "tomato",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRT--1bsm3IU9dxrm0955QoC_Jzx5waaop4njeuqlPa8Hbz00EE"
+                },
+                {
+                    "name": "nuts",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3p0eYRW4rrOO_NfpITqpeH6BPUPmNJzIQAIp18VqHVdFuyzEn"
+                }
             ],
             "phyExe": " Exercise can help your body fight the TB infections ,speed your recovery and improve your mood.If you have inactive TB,you can continue your normal exercise activities.Moderate walking is good way to start.You can exercise in short sessions,such as walking for 20 minutes or compliting two 10 minute walks.You should walk as often as you are able.",
             "doctor": {
@@ -134,16 +314,37 @@
         {
             "name": " Tonsilitis",
             "herbs": [
-                "cinnamon",
-                "turmeric",
-                "fenugreek",
-                "tulsi"
+                {
+                    "name": "cinnamon",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRSYSY0-90s3S3kZgEgcD3U1XuvMUHKZPoSna_ApN7ivIo6C0hU"
+                },
+                {
+                    "name": "turmeric",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTf2NVvdwbAF6sZJL_O0aZLfy6pn4vPJyB2RjM6KCj4V29bk7oC"
+                },
+                {
+                    "name": "fenugreek",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_p33HP46lWAaf2ijUuO2JxyMU9Jo-3qYfPIhHYZuTdE8uNnY"
+                },
+                {
+                    "name": "tulsi",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSsKzHkDINZLyjL21BkIcpDvu8s4Lek9US3WTRM32S1T2Gj5E_M"
+                }
             ],
             "herbDescription": "Tulsi,is another expectionally viable home remedy for tonsilitis because of its antiviral and anti-inflamatory proparties.In addition to that its healing and soothing qualities will help reduce swelling and pain as well as as speed up the healing process.Consuming a drink made by boling tulsi leaves and adding about 2 grams of black pepper to it can help in bringing relief.This drink helps in building your immunity.",
             "fruitsName": [
-                "Pomegrante",
-                "bananas",
-                "pineapple"
+                {
+                    "name": "Pomegrante",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTFKN_lPkRrspKQedLW9lmUG4GUG0O_xDC8GrE-GnQClJknUEuj"
+                },
+                {
+                    "name": "bananas",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtIK6GtGM3joK1_yzfnpHYcbEGNJ99LDEaBXjenhR8sLbtOdn4"
+                },
+                {
+                    "name": "pineapple",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRxWK5yADu35O7bxHSJ5N8p0Vg71ycm4WGfSSQarnTW5419Hyzd"
+                }
             ],
             "phyExe": " Yoga has been found and proven to be helpful in the preventation of cure and disesse.Several yogic aasan has been recommended for tonsilitis.Rabbit pose,Corpse pose,Triangle pose,Lion pose,Matsyasana.",
             "doctor": {
@@ -155,18 +356,45 @@
         {
             "name": "Fever",
             "herbs": [
-                "sudarshan leaves",
-                "ginger",
-                "giloy",
-                "tulsi",
-                "neem",
-                "cloves",
-                "black pepper"
+                {
+                    "name": "sudarshan leaves",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR9qTaK9DTikmtGB1EwqebJTtr71VciYhMh0CP9wLixuMKC8AHp"
+                },
+                {
+                    "name": "ginger",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwCyRhG36cTrj8SvbpWOOuvP6QD6vlErU-0BNCRbJ16pGpweeM"
+                },
+                {
+                    "name": "giloy",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSpQfWHj-yUqILxbohhBtx_EEMJ8egbpLQzgOOWELwdBVfS5ngB"
+                },
+                {
+                    "name": "tulsi",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSsKzHkDINZLyjL21BkIcpDvu8s4Lek9US3WTRM32S1T2Gj5E_M"
+                },
+                {
+                    "name": "neem",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTg7M6mCVcC8scO6L32mKJYuE2cnC1sAThEIAlPG1eIVBiR25oL"
+                },
+                {
+                    "name": "cloves",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ8sUdrC_bDw17AqsfQTgnn-bd6IMJzD3cQyj5srOaOHYg-OJGj"
+                },
+                {
+                    "name": "black pepper",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRnydo-pR2wUQPJXM0cLsWl-bPNSdZJEZ-IGEVpMBNhqFgq1WPN"
+                }
             ],
             "herbDescription": " The perennial help native to China and india known as Zingbier officinale can prove to be an aid to a plenty of your health woes like cold flu,inflammation,sore throat and fever.Its natural antiviral and atibacterial elements help fight the infection in your body.",
             "fruitsName": [
-                "grapes",
-                "apple"
+                {
+                    "name": "grapes",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRyTkIzTX_PD-_ZsylTF9M-eDlGUsHG6rfv2Kl8XKS8OkgqW4y4"
+                },
+                {
+                    "name": "apple",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRK8z9FNBLslApImTt105kBqVUjqcVp8lwJqF9rnu6xAABnuVGw"
+                }
             ],
             "phyExe": "walk around the house for a few minutes every half hour or so to potentially recover from your illness faster. No exercise at all when fever.",
             "doctor": {
@@ -178,19 +406,49 @@
         {
             "name": "Sunburn",
             "herbs": [
-                "basil",
-                "calendula",
-                "oregano",
-                "rosemary",
-                "valerian"
+                {
+                    "name": "basil",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXeYmT3ATiScnBv1mTen1vQG9I-xzQKnKCZY4upHXNLAdVJ6ag"
+                },
+                {
+                    "name": "calendula",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRSNOKt39NIss6YruC3JgwJcjiTeUawjjL9g7SVnBP4xhQnK27M"
+                },
+                {
+                    "name": "oregano",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTOOj2GseEKUvAO7TdiI_AidLAol71RzXtJ3pkaFcjd1Dj570TH"
+                },
+                {
+                    "name": "rosemary",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJJnbkAjuJWRgDDZAs7xR0iGYf6n2Mcd54yRRb8pJIU9Zd5GPa"
+                },
+                {
+                    "name": "valerian",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRt3gLzpH-LmE4QNR-LkdKvf-le9c5mqJ-cuphOyuIYVNAMXrPF"
+                }
             ],
             "herbDescription": "Valerian root is good for sunburn.You can use valerian to either make a tea from the dried roots.",
             "fruitsName": [
-                "carrot",
-                "watermelon",
-                "cucumber",
-                "almonds",
-                "pomegranate"
+                {
+                    "name": "carrot",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQLK5wXGEUbaydaOUUN_X_S8yqWBIHVU4ZEvyBPJTSiG5XISKB"
+                },
+                {
+                    "name": "watermelon",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmVIkJwcZ5qdJLarNNlIcsBYSoLAHWAk41wZc8wp6pbws1zAwv"
+                },
+                {
+                    "name": "cucumber",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLJxnwCKyfk7F3TUaJKX1RQ4nzZP95ndbciz81WQWLKiUN0_in"
+                },
+                {
+                    "name": "almonds",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQyZHDwomByZMn7KsRHYoIeSWYfa4Gk1j25Wg7ST8l7IVOIZeNo"
+                },
+                {
+                    "name": "pomegranate",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTFKN_lPkRrspKQedLW9lmUG4GUG0O_xDC8GrE-GnQClJknUEuj"
+                }
             ],
             "phyExe": "Don't exercise if you have sunburned.Your body needs all time it can to recover.",
             "doctor": {
@@ -202,19 +460,49 @@
         {
             "name": "Stroke",
             "herbs": [
-                "garlic",
-                "ashwagandha",
-                "centella asiatica",
-                "european blueberry",
-                "turmeric"
+                {
+                    "name": "garlic",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTn0QynWmOf-DjCsMYaJexFhMzQ3hh_QrpNQCMuj3P3cNc8y1El"
+                },
+                {
+                    "name": "ashwagandha",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSparqYW9bmFfuce6CJxmZ1pxZjAQmxBP43quZEZdrW_mRcbvGL"
+                },
+                {
+                    "name": "centella asiatica",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTw5y08keZkF9HECjUyBesagS3e1GW3-1acuLHMlV0kSQHRr7sM"
+                },
+                {
+                    "name": "european blueberry",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_d0dof8vJqX0_OlW7K_S8V9EE1oYhJnLIclR4O8UsZIYdM3wy"
+                },
+                {
+                    "name": "turmeric",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTf2NVvdwbAF6sZJL_O0aZLfy6pn4vPJyB2RjM6KCj4V29bk7oC"
+                }
             ],
             "herbDescription": " Ashwagandha is one of the most important herbs in Ayurveda, a form of alternative medicine.Many of the health benefit  included to its high concentration.It is good for death of cancer cells.Particularly its root  powder ,has been used for traditional indian medicine.",
             "fruitsName": [
-                "blueberries",
-                "nuts",
-                "beans",
-                "avacados",
-                "seeds"
+                {
+                    "name": "blueberries",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRly6oVGlRd_vaOma-PRJ4G06clBV1Q5j0ZYmMcNAlZc5sd4rqV"
+                },
+                {
+                    "name": "nuts",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3p0eYRW4rrOO_NfpITqpeH6BPUPmNJzIQAIp18VqHVdFuyzEn"
+                },
+                {
+                    "name": "beans",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMDSTy1BG0dUNh5hsqv3lVPl8JdGPd2aGrNJxhp0AaLF0_S2c6"
+                },
+                {
+                    "name": "avacados",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlK-YMsNY1I9DCs6aAZLcCtcLv9g0Z7YoDAJ47yh-Mi-OyuBpl"
+                },
+                {
+                    "name": "seeds",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRll9LHd77HNkUoRx_1JSVnuwDjsFN6t1gZVwM-AqNETj25lVh1"
+                }
             ],
             "phyExe": " The following stroke rehabilitation exercise are Knee extensions,Seated marching, Knee to Chest,Toe Taps,Tablet Circle Movement,Open Arm Movement.These exercise are good for stroke patients.",
             "doctor": {
@@ -226,20 +514,53 @@
         {
             "name": " Obesity",
             "herbs": [
-                "cumin",
-                "ginger",
-                "rosemerry",
-                "black pepper",
-                "dandelion"
+                {
+                    "name": "cumin",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNkKQgaOAwYWD5VjRFgtEhAq-jyIfeH8oxE4xZ42YhvIgui3dc"
+                },
+                {
+                    "name": "ginger",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwCyRhG36cTrj8SvbpWOOuvP6QD6vlErU-0BNCRbJ16pGpweeM"
+                },
+                {
+                    "name": "rosemerry",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJJnbkAjuJWRgDDZAs7xR0iGYf6n2Mcd54yRRb8pJIU9Zd5GPa"
+                },
+                {
+                    "name": "black pepper",
+                    "imgURL": "https://pbs.twimg.com/media/D5DrGF7UYAMMYX6.jpg"
+                },
+                {
+                    "name": "dandelion",
+                    "imgURL": "https://images-na.ssl-images-amazon.com/images/I/81MteT13V7L._AC_SX522_.jpg"
+                }
             ],
             "herbDescription": "Black pepper is rich in piperine,which gives to its unique flavour.This one ingredient prevents the foramation of fat cells and thus help you to lose ,and later maintain,that weight.",
             "fruitsName": [
-                "grape fruit",
-                "apples",
-                "berries",
-                "passion fruit",
-                "kiwifruit",
-                "melons"
+                {
+                    "name": "grape fruit",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRPKox6SQYREcx9XxU9tXoUZkzkABx0Scj9InLmB-yKNk56O1d_"
+                },
+                {
+                    "name": "apples",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRK8z9FNBLslApImTt105kBqVUjqcVp8lwJqF9rnu6xAABnuVGw"
+                },
+                {
+                    "name": "berries",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTfkwTZqcRz5TlcvWu6xrJH2xeiONeJuVx-L3jLPO3P-rrqIaIA"
+                },
+                {
+                    "name": "passion fruit",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVLtCujMN3xYGnjekqzoOyrnb2K77joCW0dWc0OIsV5FVtTVLW"
+                },
+                {
+                    "name": "kiwifruit",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTIV_jheGU2iCdaJbTkTalLgfPfr_aspFR3TVidj_2wGioVUdlG"
+                },
+                {
+                    "name": "melons",
+                    "imgURL": "https://lh3.googleusercontent.com/proxy/1T58lQkPctzCY92WN4-Rr0BzK4Vm8mcfLU6csqyuun2eXL2zw4OWboCN-Wjeh7B2fdiV_CLvyRyW1orklwLJwHu9CL9UKSj-21cJYTugcUg7aDO7pR9Yt3COC-GSnPZDScDxvJzmJIC00cB980k"
+                }
             ],
             "phyExe": " The physical activities like climbing stairs and jogging,one of the easiest and most effective ways to ease into a healthier life-style to begin walking.You may need to least 60 minutes Exercise a day to prevent weight gain and 90 minutes a day to weight lose.Do warm up exercise and gentle stretches before exercising.",
             "doctor": {
@@ -251,11 +572,22 @@
         {
             "name": "Mouth Ulcer",
             "herbs": [
-                "honey",
-                "mulethi powder",
-                "triphala",
-                "aloe vera",
-                "tulsi"
+                {
+                    "name": "honey",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQuvTEfSTSAiEaj1x_Xy83AZw9bYUa1BLAZJxFizkatnzB7F1-_"
+                },
+                {
+                    "name": "mulethi powder",
+                    "imgURL": "https://www.astromantra.com/wp-content/uploads/2019/12/Mulethi-Powder.jpg"
+                },
+                {
+                    "name": "aloe vera",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRb7118KH5WIvNTX3dDmYC75-QUnXIdz87_lpR_bfTinp57Owgn"
+                },
+                {
+                    "name": "tulsi",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSsKzHkDINZLyjL21BkIcpDvu8s4Lek9US3WTRM32S1T2Gj5E_M"
+                }
             ],
             "herbDescription": "Mulethi has long been used medicinal proparties.For mouth ulcers cause due to stomach ailments,mulethi works wonders.It helps in cleaning your stomach and removes toxins that could be responsible for the ulcers.",
             "fruitsName": [
@@ -271,19 +603,49 @@
         {
             "name": " Malaria",
             "herbs": [
-                "cinnamon",
-                "turmeric",
-                "ginger",
-                "mustard oil",
-                "fenugreek seeds"
+                {
+                    "name": "cinnamon",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRSYSY0-90s3S3kZgEgcD3U1XuvMUHKZPoSna_ApN7ivIo6C0hU"
+                },
+                {
+                    "name": "turmeric",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTf2NVvdwbAF6sZJL_O0aZLfy6pn4vPJyB2RjM6KCj4V29bk7oC"
+                },
+                {
+                    "name": "ginger",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwCyRhG36cTrj8SvbpWOOuvP6QD6vlErU-0BNCRbJ16pGpweeM"
+                },
+                {
+                    "name": "mustard oil",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTMVANrZJI80kRGb3g09ytoSCfxTL4I0dVveb9I7ScV8_n5J_uf"
+                },
+                {
+                    "name": "fenugreek seeds",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSsycatnt0afaBCHZyZZDUTGYncD5uwBbGvnqOhLPGNN9iAfqio"
+                }
             ],
             "herbDescription": "Anti inflammatory,antioxidants and antimicrobial proparties in cinnamon help in dealing with symptoms of malaria.Add cinnamon and black pepper powder in hot water.Drink twice a day.",
             "fruitsName": [
-                "tamrind",
-                "grapefruit",
-                "sweet lime",
-                "apple",
-                "oranges"
+                {
+                    "name": "tamrind",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiRB8Yqp-XA_alXkw4GLnQqMlaqS0x6F0NMz10IUzEf9P_zxMa"
+                },
+                {
+                    "name": "grapefruit",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSjqeyltsH6boCkMC5tY4FTuLl6_njJFTm-i3t7trhgC46DafMf"
+                },
+                {
+                    "name": "sweet lime",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTOphlzz4gwe8pcnojnRF8l_ToSs978OeKyA2r21ClC9Hk0Wape"
+                },
+                {
+                    "name": "apple",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRK8z9FNBLslApImTt105kBqVUjqcVp8lwJqF9rnu6xAABnuVGw"
+                },
+                {
+                    "name": "oranges",
+                    "imgURL": "https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c173.png"
+                }
             ],
             "phyExe": "Exercising regularly and leading a healthy life style can reduce the damage to the heart and skeletal muscles brought on by  malaria.Keep your diet healthy.",
             "doctor": {
@@ -295,20 +657,53 @@
         {
             "name": "Liver Disease",
             "herbs": [
-                "chicory",
-                "boldo",
-                "artichoke",
-                "milk thistle",
-                "dandelion",
-                "fumitory"
+                {
+                    "name": "chicory",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSHWarHEu5QSRE4TElTxxMMLJlmTdYeydKNvylMrPdB64e-4ndd"
+                },
+                {
+                    "name": "boldo",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSId2vycBxGn6-ndevnX5GNgkAOA1y7nzVcGq-oqpwVhaIpIXHd"
+                },
+                {
+                    "name": "artichoke",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTbdaeN0nTROV4uPv5PqTHAcR1DfRz6mcDl-arZvtS-Hmqf8RB0"
+                },
+                {
+                    "name": "milk thistle",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSeKLN45_ZrnZDIVvI66UvVtf-7sR_0pEKY7jmzoYwiF3jnLRLj"
+                },
+                {
+                    "name": "dandelion",
+                    "imgURL": "https://images-na.ssl-images-amazon.com/images/I/81MteT13V7L._AC_SX522_.jpg"
+                },
+                {
+                    "name": "fumitory",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSg8aeEfRAzJRS6__P4l6j8mlcnjXXVYldrNNk_Oov4uZUec6vp"
+                }
             ],
             "herbDescription": "This liver cleansing plant has popularized vegetables such as escarole or endive.Its leaves are used for both culinary and medicinal purposes.Furthermore,its dried root can be a healthy coffee substitute.As a vegetable,it is  very to preapre it.",
             "fruitsName": [
-                "beetroot",
-                "avacado",
-                "grapefruit",
-                "berries",
-                "grapes"
+                {
+                    "name": "beetroot",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsRrElfc4eNFQr43XLII8SodsNZ55n1kqTDVxt6u5PP7hQsAa5"
+                },
+                {
+                    "name": "avacado",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlK-YMsNY1I9DCs6aAZLcCtcLv9g0Z7YoDAJ47yh-Mi-OyuBpl"
+                },
+                {
+                    "name": "grapefruit",
+                    "imgURL": "https://fbi.org.il/wp-content/uploads/2019/05/grapefruit.png"
+                },
+                {
+                    "name": "berries",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ8zRPQ2aIYvqdF_NS57YpHJ7CeH_T82AntipMxSy3Q8Ok4M-0r"
+                },
+                {
+                    "name": "grapes",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSjqeyltsH6boCkMC5tY4FTuLl6_njJFTm-i3t7trhgC46DafMf"
+                }
             ],
             "phyExe": "The liver plays a key role in digestion and overall health.Stimulate this vital organ with yoga poses like Big toe pose,standing Forward bend,and Standing Split.Walking is also best exercise for liver disease.",
             "doctor": {
@@ -320,17 +715,41 @@
         {
             "name": "Cough",
             "herbs": [
-                "honey",
-                "marshmallow roots",
-                "ginger"
+                {
+                    "name": "honey",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQuvTEfSTSAiEaj1x_Xy83AZw9bYUa1BLAZJxFizkatnzB7F1-_"
+                },
+                {
+                    "name": "marshmallow roots",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS5IzaKieB2UQGbzXYmwJDfWZCOXcmf5vZkF0v6HeusFBKAUWgb"
+                },
+                {
+                    "name": "ginger",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwCyRhG36cTrj8SvbpWOOuvP6QD6vlErU-0BNCRbJ16pGpweeM"
+                }
             ],
             "herbDescription": "Marshmallow root is an herb that has long history of use as a treatment for coughs and sore throats.The herb can ease irritation resulting from coughing because of its high  mucilage content.Mucilage is a thick,gluecy substance that coats the throat.Marshmallow root is also available as a dried herb or a bagged tea.",
             "fruitsName": [
-                "bromelian",
-                "orange",
-                "apples",
-                "carnberries",
-                "sweet potatoes"
+                {
+                    "name": "bromelian",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROJZ55EL3IitfDxljB_LlgZcHqWBioivTHHugj7ZgBOmlmLe-w"
+                },
+                {
+                    "name": "orange",
+                    "imgURL": "https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c173.png"
+                },
+                {
+                    "name": "apples",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRK8z9FNBLslApImTt105kBqVUjqcVp8lwJqF9rnu6xAABnuVGw"
+                },
+                {
+                    "name": "carnberries",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQXhf6wXIwLag7HsUjFEghF1gnRlGAMTOgyWxPhXJm0mYW8YON2"
+                },
+                {
+                    "name": "sweet potatoes",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_AbtyWfAG0cF2cTnZKpwcQaYq8jF2hw9oR6UEqwgZb1j2uEQO"
+                }
             ],
             "phyExe": "The physical exercise in cough Sit straight on a hard-backed,stable chair and relax.Take in 2-3 deep breaths through your nose  and exhale slowly through pursed lips.Fold your arms across your abdomen.Take in a comfortable ,deep breath through your nose.",
             "doctor": {
@@ -342,20 +761,53 @@
         {
             "name": "Itchy Skin",
             "herbs": [
-                "chickweed",
-                "peppermint",
-                "common nettle",
-                "clove",
-                "chamomile"
+                {
+                    "name": "chickweed",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQn9arGb0dj4WDL7w_oUEppN14cESL6NQHqBMR8BaIWOwf6D1N9"
+                },
+                {
+                    "name": "peppermint",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSfIk9KZUdcZoYJx7Nmx03lQMZ1PcRY_5aDzCz4zOvXwwh6KVL_"
+                },
+                {
+                    "name": "common nettle",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTxbdPFbrAIISWRV2sn3pN4rq_Bp9ejGPTO5i7KxQe8A3i3SYAv"
+                },
+                {
+                    "name": "clove",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQdP1rkFpyXGkn6gkayA5QD6g0uTTh19foxMQLKIJik5307mWnD"
+                },
+                {
+                    "name": "chamomile",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_o6_Zi7QCriyWIDrOU2Ja7THkbxd2rP_NNWqR6KUbOPwgvimb"
+                }
             ],
             "herbDescription": "Chamomile is natural anti-inflammatory,with the power to reduce redness,itchiness and swelling . Steep a chamomile tea bag in boiling water for two to three minutes to release the anti-inflammatory enzymes.Put it in fridge and once the tea bag is cold ,apply it directly to red irritated patches on your face for instant relief.",
             "fruitsName": [
-                "citrus fruits",
-                "kiwifruit",
-                "grapes",
-                "strawberry",
-                "apple",
-                "papaya"
+                {
+                    "name": "citrus fruits",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT8EH1mDUX8HuQ64qp7du6HQdpuS7xhjbGPYEcPoIsQkywc7K49"
+                },
+                {
+                    "name": "kiwifruit",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTIV_jheGU2iCdaJbTkTalLgfPfr_aspFR3TVidj_2wGioVUdlG"
+                },
+                {
+                    "name": "grapes",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSjqeyltsH6boCkMC5tY4FTuLl6_njJFTm-i3t7trhgC46DafMf"
+                },
+                {
+                    "name": "strawberry",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwOpYtB5lL1zIuH9QizAcqajkTsEiPCnklfR9x7OMbAgqReP-N"
+                },
+                {
+                    "name": "apple",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRK8z9FNBLslApImTt105kBqVUjqcVp8lwJqF9rnu6xAABnuVGw"
+                },
+                {
+                    "name": "papaya",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTfwHs3P78vb0vUSXUbj98hyJoDPDodFqsbDEsa_lw9MwOX8BH4"
+                }
             ],
             "phyExe": "Try to avoid sweat, and you can do your regular activities.",
             "doctor": {
@@ -367,17 +819,41 @@
         {
             "name": "Diarrhea",
             "herbs": [
-                "astagalus",
-                "barberry",
-                "ginger",
-                "coriander",
-                "oregano"
+                {
+                    "name": "astagalus",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS6GIkPQCbSf3RdRm--SVFmhCF7eucZwJTI1bNC0yhWamAeo4cl"
+                },
+                {
+                    "name": "barberry",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJ9d_07DL4-cbxZa1abSgAixMPY-cmmoSPiRO6ACh0ksJhfYWA"
+                },
+                {
+                    "name": "ginger",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwCyRhG36cTrj8SvbpWOOuvP6QD6vlErU-0BNCRbJ16pGpweeM"
+                },
+                {
+                    "name": "coriander",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQv9SV1jOwx7U60LHQDEfYRW8s9nIqyM2wbMNb87j7fSs55H-Ay"
+                },
+                {
+                    "name": "oregano",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTME-BrPTFp2NBVzG0PB2nWIoHMGGrgtwfwYDkmqmMYtneO6vNM"
+                }
             ],
             "herbDescription": "Astagulas is a very useful plant for diarrhea Because of the astragulas anti-viral and antibacterial proparties,it is considered as a  good natural remedy for diarrhea.It containss polysaccharides which provides support for the immune system.",
             "fruitsName": [
-                "apple",
-                "banana",
-                "coconut"
+                {
+                    "name": "apple",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRK8z9FNBLslApImTt105kBqVUjqcVp8lwJqF9rnu6xAABnuVGw"
+                },
+                {
+                    "name": "banana",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtIK6GtGM3joK1_yzfnpHYcbEGNJ99LDEaBXjenhR8sLbtOdn4"
+                },
+                {
+                    "name": "coconut",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTKWE_RVU7VL4Bh_4ak7TidfngFWVPLZ86aG3jm1HVRYZ-4Ocaq"
+                }
             ],
             "phyExe": "Allow yourself a few hours before exercising to ensure that the diarrhea has been treated. Ask your doctor how long you have to wait to exercise followi ng treartment.",
             "doctor": {
@@ -389,19 +865,49 @@
         {
             "name": "Asthma",
             "herbs": [
-                "garlic",
-                "ginger",
-                "echinacea",
-                "honey",
-                "turmeric",
-                "parsley"
+                {
+                    "name": "garlic",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTn0QynWmOf-DjCsMYaJexFhMzQ3hh_QrpNQCMuj3P3cNc8y1El"
+                },
+                {
+                    "name": "ginger",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwCyRhG36cTrj8SvbpWOOuvP6QD6vlErU-0BNCRbJ16pGpweeM"
+                },
+                {
+                    "name": "echinacea",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTl8SzJExZgShfgkYCY5wosxuBeZbd5s5aLGTR_agmGOJT3D2gV"
+                },
+                {
+                    "name": "honey",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ5gVC6e2-2AO3qlFpvp0WhI63ZPl8uUyXnu2o91MY8ChArym1x"
+                },
+                {
+                    "name": "turmeric",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_H-7RhmOVuV4xWaH3W0buFUwTj-un7f8Bc_P_4Yhpikd6QyAz"
+                },
+                {
+                    "name": "parsley",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQIcqCcxrdFKqID2kQ9kcmWGUia9BO5aj6lXekx-ypypZrflUqt"
+                }
             ],
             "herbDescription": "Parsley helps relieve coughing during asthma  attacks and act as an expectorant,a medicine that promotes secretion of sputum by the air passages-enabling the patient to cough,riding  airways of trapped mucous.It also eases tightness in the muscles of the chest.When used as a tea parsley is also a natural diuretic which increases frequency of urination.",
             "fruitsName": [
-                "apples",
-                "banana",
-                "cantaloupe",
-                "avocado"
+                {
+                    "name": "apples",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRK8z9FNBLslApImTt105kBqVUjqcVp8lwJqF9rnu6xAABnuVGw"
+                },
+                {
+                    "name": "banana",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtIK6GtGM3joK1_yzfnpHYcbEGNJ99LDEaBXjenhR8sLbtOdn4"
+                },
+                {
+                    "name": "cantaloupe",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQohzjcRJ0rCWW2YRLuZtD76MZddQf49zD4owlR_W1SfNbSxbk5"
+                },
+                {
+                    "name": "avocado",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlK-YMsNY1I9DCs6aAZLcCtcLv9g0Z7YoDAJ47yh-Mi-OyuBpl"
+                }
             ],
             "phyExe": " Swimming is the bbest exercise for asthma because it builds up the muscles you use for breathing.It also exposes the lungs.Yoga is another good exercise for asthma In a study ,found that yoga training over 10 weeks significantly improved quality of life scores.Other potential physical activities for people with asthma include walking, biking,hiking,golf and gymnastics.Before start any activites take advise to your doctor.",
             "doctor": {
@@ -413,15 +919,33 @@
         {
             "name": "Migraine",
             "herbs": [
-                "Peppermint",
-                "Lavender",
-                "Rosemary"
+                {
+                    "name": "Peppermint",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSfIk9KZUdcZoYJx7Nmx03lQMZ1PcRY_5aDzCz4zOvXwwh6KVL_"
+                },
+                {
+                    "name": "Lavender",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_hrSK9zuuU9sbwyXqNv-VFrnkgUBy4PTZu_R7E9F5mCKHxj9x"
+                },
+                {
+                    "name": "Rosemary",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJJnbkAjuJWRgDDZAs7xR0iGYf6n2Mcd54yRRb8pJIU9Zd5GPa"
+                }
             ],
             "herbDescription": "Peppermint leaves and oils are used for medicinal and culinary process.In addition to a headache treatment it is also use to relieve.Peppermint oil and its active ingredient menthol,is available in liquid capsuleform.Topical peppermint oil may be a good herbal option for the relief of migraine pain.",
             "fruitsName": [
-                "oranges",
-                "banana",
-                "apple"
+                {
+                    "name": "oranges",
+                    "imgURL": "https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c173.png"
+                },
+                {
+                    "name": "banana",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtIK6GtGM3joK1_yzfnpHYcbEGNJ99LDEaBXjenhR8sLbtOdn4"
+                },
+                {
+                    "name": "apple",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRK8z9FNBLslApImTt105kBqVUjqcVp8lwJqF9rnu6xAABnuVGw"
+                }
             ],
             "phyExe": "Biking,swimming,and walking are the great ways to fit in aerobic exercise and help reduce the frequency and severity of migraines and headaches.Meditation and yoga are also very useful.",
             "doctor": {
@@ -433,16 +957,37 @@
         {
             "name": "Measles",
             "herbs": [
-                "Turmeric",
-                "Barley",
-                "Neem leaves"
+                {
+                    "name": "Turmeric",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTf2NVvdwbAF6sZJL_O0aZLfy6pn4vPJyB2RjM6KCj4V29bk7oC"
+                },
+                {
+                    "name": "Barley",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcThCW8N2Btsxiu_5gwzKXKnvWgCVeYJajTYHmDS5b8PRBvifyCu"
+                },
+                {
+                    "name": "Neem leaves",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQAsl29ZkpAmXrvSR-bMBU0OnTX2kGe_pxwuF_n2WHnI9NQBDwv"
+                }
             ],
             "herbDescription": "It has amazing antiseptic and antioxidant proparties which make it very effective against measles.Drinking couple of glasses of milk with a spoonful of turmeric added to it can be a great natural cure for measles.It can quickly reduce the symptoms.",
             "fruitsName": [
-                "oranges",
-                "grapes",
-                "coconut",
-                "pomegranate"
+                {
+                    "name": "oranges",
+                    "imgURL": "https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c173.png"
+                },
+                {
+                    "name": "grapes",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSjqeyltsH6boCkMC5tY4FTuLl6_njJFTm-i3t7trhgC46DafMf"
+                },
+                {
+                    "name": "coconut",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTKWE_RVU7VL4Bh_4ak7TidfngFWVPLZ86aG3jm1HVRYZ-4Ocaq"
+                },
+                {
+                    "name": "pomegranate",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTFKN_lPkRrspKQedLW9lmUG4GUG0O_xDC8GrE-GnQClJknUEuj"
+                }
             ],
             "phyExe": "Meditation is good for measles.Take advice of doctors when you start any type of physical exercise.",
             "doctor": {
@@ -454,18 +999,45 @@
         {
             "name": "Low Back Pain",
             "herbs": [
-                "Lavender",
-                "Cloves",
-                "Ginger"
+                {
+                    "name": "Lavender",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_hrSK9zuuU9sbwyXqNv-VFrnkgUBy4PTZu_R7E9F5mCKHxj9x"
+                },
+                {
+                    "name": "Cloves",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDRXaBBh7Brk7ZLa8qFJMOs21si8AoAfNt9oVLJ_XGaw7Ewoqf"
+                },
+                {
+                    "name": "Ginger",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwCyRhG36cTrj8SvbpWOOuvP6QD6vlErU-0BNCRbJ16pGpweeM"
+                }
             ],
             "herbDescription": "Lavender essential oil may help relive pain naturally.People use lavender oil for pain relief,to help sleep,and to ease anxiety.Do not ingest essential oils,as they can be  toxic.If applying an oil topically,always dilute it in a carrier oil.",
             "fruitsName": [
-                "Carrots",
-                "cherries",
-                "berries",
-                "grapes",
-                "watermelon",
-                "pomegranate"
+                {
+                    "name": "Carrots",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQXq0umHVaFX8GlHYdUiZ5AuC5tgpzltKGQFOmQ_qpGj8uv2lZn"
+                },
+                {
+                    "name": "cherries",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRL2pbuTrUumHZfSagxAKrFpu1Rnz2Sc0zLaLpwqebFyAe-rQL6"
+                },
+                {
+                    "name": "Berries",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTfkwTZqcRz5TlcvWu6xrJH2xeiONeJuVx-L3jLPO3P-rrqIaIA"
+                },
+                {
+                    "name": "grapes",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSjqeyltsH6boCkMC5tY4FTuLl6_njJFTm-i3t7trhgC46DafMf"
+                },
+                {
+                    "name": "watermelon",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmVIkJwcZ5qdJLarNNlIcsBYSoLAHWAk41wZc8wp6pbws1zAwv"
+                },
+                {
+                    "name": "pomegranate",
+                    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTFKN_lPkRrspKQedLW9lmUG4GUG0O_xDC8GrE-GnQClJknUEuj"
+                }
             ],
             "phyExe": "Some physical exercises are not good for back pain.Some use ful exercises are Aerobic exercise,Some Pilates moves,Lifting Weights May help,Bridging,Pelvic Tilts,Knee to Chest,Bird Dog,Press up back extensions.",
             "doctor": {
