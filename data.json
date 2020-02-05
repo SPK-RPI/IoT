@@ -590,7 +590,7 @@
             ],
             "herbDescription": "Mulethi has long been used medicinal proparties.For mouth ulcers cause due to stomach ailments,mulethi works wonders.It helps in cleaning your stomach and removes toxins that could be responsible for the ulcers.",
             "fruitsName": [
-                "coconut"
+                {"name":"coconut","imgUrl":""}
             ],
             "phyExe": " When you have ulcers you can do your regular exercise.Try to avoid stress because it can aggravate your condition.",
             "doctor": {
@@ -784,7 +784,7 @@
             "herbDescription": "Chamomile is natural anti-inflammatory,with the power to reduce redness,itchiness and swelling . Steep a chamomile tea bag in boiling water for two to three minutes to release the anti-inflammatory enzymes.Put it in fridge and once the tea bag is cold ,apply it directly to red irritated patches on your face for instant relief.",
             "fruitsName": [
                 {
-                    "name": "citrus fruits",
+                    "name": "citrus fruitsName",
                     "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT8EH1mDUX8HuQ64qp7du6HQdpuS7xhjbGPYEcPoIsQkywc7K49"
                 },
                 {
